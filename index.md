@@ -1,9 +1,8 @@
-## Yuqing Ma
+## Yuqing Ma (马宇晴)
 
-You can use the [editor on GitHub](https://github.com/vickyFox/vickyFox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yuqing Ma's Home Page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[View My GitHub Profile](https://github.com/vickyFox)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
