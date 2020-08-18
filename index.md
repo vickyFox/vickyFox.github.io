@@ -64,3 +64,8 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 <br>International Joint Conference on Artificial Intelligence (IJCAI’18), Stockholm, Sweden, 2018.
 <br>[pdf] [poster] [code] [bibtex]
 
+* **Temporal Binary Coding for Large-scale Video Search.**
+<br>Ke Xia, **Yuqing Ma**, Xianglong Liu, Yadong Mu and Li Liu.
+<br>ACM International Conference on Multimedia (ACM MM’17), Mountain View, California, USA, 2017.
+<br>[pdf] [poster] [code] [bibtex]
+
