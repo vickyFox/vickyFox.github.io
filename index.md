@@ -1,7 +1,7 @@
 ## Brief Bio
-Ph.D. Candidate
+**Ph.D. Candidate**
 
-State Key Laboratory of Software Development Environment
+(State Key Laboratory of Software Development Environment)[http://www.nlsde.buaa.edu.cn/]
 
 School of Computer Science and Engineering, Beihang University, China
 
