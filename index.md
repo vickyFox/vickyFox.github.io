@@ -15,6 +15,7 @@ Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology, Shandong University, in 2015.
 
 ## Updates
+* July, 2020: One papers accepted for [ECCV 2020](https://eccv2020.eu/)
 * April, 2020: One paper accepted for [IJCAI 2019](https://www.ijcai20.org/).
 * Sep, 2019: I received the national scholarship.
 * Jun, 2019: I got an internship in [ARVR, JD.com](https://ar.jd.com/).
@@ -29,14 +30,19 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 * **Visual Search**: Unsupervised Video Search, Unsupervised Image Retrieval
 
 ## Publications
+* **Spatiotemporal Attacks for Embodied Agents**
+<br>Aishan Liu, Tairan Huang, Xianglong Liu, Yitao Xu, **Yuqing Ma**, Xinyun Chen, Stephen Maybank, Dacheng Tao
+<br>European Conference on Computer Vision (**ECCV**), 2020.
+<br>[pdf] [code] [media]
+
 * **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
 <br>**Yuqing Ma**, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
-<br>International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+<br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
 <br>[pdf]
 
 * **Transductive Relation-Propagation Network for Few-shot Learning**
 <br>**Yuqing Ma**, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
-<br>International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+<br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
 <br>[pdf]
 
 * **Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.**
@@ -51,26 +57,50 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 * **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.**
 <br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and Aishan Liu.
-<br>International Joint Conference on Artificial Intelligence (IJCAI’19), Macao, China, 2019.
+<br>International Joint Conference on Artificial Intelligence (**IJCAI’19**), Macao, China, 2019.
 <br>[pdf] [poster] [code] [bibtex]
 
-* Perceptual Sensitive GAN for Generating Adversarial Patches.
+* **Perceptual Sensitive GAN for Generating Adversarial Patches.**
 <br>Aishan Liu, Xianglong Liu, Jiaxin Fan, **Yuqing Ma**, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
-<br>AAAI Conference on Artificial Intelligence (AAAI’19), Honolulu, Hawaii, USA, 2019.
+<br>AAAI Conference on Artificial Intelligence (**AAAI’19**), Honolulu, Hawaii, USA, 2019.
 <br>[pdf] [poster] [bibtex]
 
 * **A General Non-parametric Active Learning Framework for Classification on Multiple Manifolds.**
 <br>Lei Huang, **Yuqing Ma**, Xianglong Liu.
-<br>Pattern Recognition Letters (PRL’2019).
+<br>Pattern Recognition Letters (**PRL’2019**).
 <br>[pdf] [poster] [code] [bibtex]
 
 * **Progressive Generative Hashing for Image Retrieval.**
 <br>**Yuqing Ma**, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu.
-<br>International Joint Conference on Artificial Intelligence (IJCAI’18), Stockholm, Sweden, 2018.
+<br>International Joint Conference on Artificial Intelligence (**IJCAI’18**), Stockholm, Sweden, 2018.
 <br>[pdf] [poster] [code] [bibtex]
 
 * **Temporal Binary Coding for Large-scale Video Search.**
 <br>Ke Xia, **Yuqing Ma**, Xianglong Liu, Yadong Mu and Li Liu.
-<br>ACM International Conference on Multimedia (ACM MM’17), Mountain View, California, USA, 2017.
+<br>ACM International Conference on Multimedia (**ACM MM’17**), Mountain View, California, USA, 2017.
 <br>[pdf] [poster] [code] [bibtex]
+
+## Main Awards & Honors
+* National Scholarship, China, 2019.09.
+* Tencent Rhino-Bird Elite Training Program, Tencent, 2018
+* IJCAI-18 Travel Grant, IJCAI, 2018.07.
+* First-grade Excellent Study Scholarship, Beihang University, 2018.09.
+* Second-grade Excellent Study Scholarship, Beihang University, 2017.09.
+* Second-grade Excellent Study Scholarship, Beihang University, 2016.09.
+
+## Professional Activities
+### Conference Reviewer / Program Committee Member
+* IJCAI 2019.
+* ACM MM 2019.
+* PR 2019.
+* MMASIA 2019.
+
+## Education
+* Sep. 2015 - Present 
+** MD-PhD. student in Computer Science, School of Computer Science and Engineering, Beihang University
+** Advisor: Profs. Wei Li and co-advised by Profs. Xianglong Liu
+* Sep. 2010 - Jun. 2015
+** B.Sc in Computer Science, School of Computer Science and Technology, Shandong University
+Main Co-authors
+[Xianglong Liu] | [Aishan Liu]
 
