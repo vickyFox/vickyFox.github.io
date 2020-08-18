@@ -35,9 +35,9 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 [pdf]
 
 * Transductive Relation-Propagation Network for Few-shot Learning
-Yuqing Ma, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
-International Joint Conference on Artificial Intelligence (IJCAI), 2020.
-[pdf]
+[br]Yuqing Ma, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
+[br]International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+[br][pdf]
 
 * Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
 Chongzhi Zhang*, Aishan Liu*, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma and Tianlin Li. (* means equal contribution)
