@@ -49,6 +49,11 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 <br>Under review.
 <br>[pdf]
 
+* **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.**
+<br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and Aishan Liu.
+<br>International Joint Conference on Artificial Intelligence (IJCAI’19), Macao, China, 2019.
+<br>[pdf] [poster] [code] [bibtex]
+
 * Perceptual Sensitive GAN for Generating Adversarial Patches.
 <br>Aishan Liu, Xianglong Liu, Jiaxin Fan, **Yuqing Ma**, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br>AAAI Conference on Artificial Intelligence (AAAI’19), Honolulu, Hawaii, USA, 2019.
