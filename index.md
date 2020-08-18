@@ -11,9 +11,8 @@ Email: mayuqing@nlsde.buaa.edu.cn or
 
 Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 
-
-
-Yuqing Ma's Home Page
+##About Me
+I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology, Shandong University, in 2015.
 
 [View My GitHub Profile](https://github.com/vickyFox)
 ### Markdown
