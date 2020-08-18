@@ -30,8 +30,11 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 ## Publications
 * Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration
+
 Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
+
 International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+
 [pdf]
 
 * Transductive Relation-Propagation Network for Few-shot Learning
@@ -53,3 +56,9 @@ Under review.
 Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
 Under review.
 [pdf]
+
+*Perceptual Sensitive GAN for Generating Adversarial Patches.
+Aishan Liu, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
+AAAI Conference on Artificial Intelligence (AAAI’19), Honolulu, Hawaii, USA, 2019.
+[pdf] [poster] [bibtex]
+
