@@ -29,28 +29,38 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 * **Visual Search**: Unsupervised Video Search, Unsupervised Image Retrieval
 
 ## Publications
-* Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration
-<br>Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
+* **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
+<br>**Yuqing Ma**, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
 <br>International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 <br>[pdf]
 
-* Transductive Relation-Propagation Network for Few-shot Learning
-<br>Yuqing Ma, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
+* **Transductive Relation-Propagation Network for Few-shot Learning**
+<br>**Yuqing Ma**, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
 <br>International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 <br>[pdf]
 
-* Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
-<br>Chongzhi Zhang*, Aishan Liu*, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma and Tianlin Li. (* means equal contribution)
+* **Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.**
+<br>Chongzhi Zhang*, Aishan Liu*, Xianglong Liu, Yitao Xu, Hang Yu, **Yuqing Ma** and Tianlin Li. (* means equal contribution)
 <br>Under review.
 <br>[pdf] [poster] [code] [bibtex]
 
-* Region-wise Generative Adversarial Image Inpainting for Large Missing Areas.
-<br>Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
+* **Region-wise Generative Adversarial Image Inpainting for Large Missing Areas.**
+<br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
 <br>Under review.
 <br>[pdf]
 
 * Perceptual Sensitive GAN for Generating Adversarial Patches.
-<br>Aishan Liu, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
+<br>Aishan Liu, Xianglong Liu, Jiaxin Fan, **Yuqing Ma**, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
 <br>AAAI Conference on Artificial Intelligence (AAAI’19), Honolulu, Hawaii, USA, 2019.
 <br>[pdf] [poster] [bibtex]
+
+* **A General Non-parametric Active Learning Framework for Classification on Multiple Manifolds.**
+<br>Lei Huang, **Yuqing Ma**, Xianglong Liu.
+<br>Pattern Recognition Letters (PRL’2019).
+<br>[pdf] [poster] [code] [bibtex]
+
+* **Progressive Generative Hashing for Image Retrieval.**
+<br>**Yuqing Ma**, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu.
+<br>International Joint Conference on Artificial Intelligence (IJCAI’18), Stockholm, Sweden, 2018.
+<br>[pdf] [poster] [code] [bibtex]
 
