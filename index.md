@@ -97,8 +97,8 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 ## Education
 * Sep. 2015 - Present 
-** MD-PhD. student in Computer Science, School of Computer Science and Engineering, Beihang University
-** Advisor: Profs. Wei Li and co-advised by Profs. Xianglong Liu
+<br> * MD-PhD. student in Computer Science, School of Computer Science and Engineering, Beihang University
+<br> * Advisor: Profs. Wei Li and co-advised by Profs. Xianglong Liu
 * Sep. 2010 - Jun. 2015
 ** B.Sc in Computer Science, School of Computer Science and Technology, Shandong University
 Main Co-authors
