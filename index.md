@@ -34,7 +34,22 @@ Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
 International Joint Conference on Artificial Intelligence (IJCAI), 2020.
 [pdf]
 
-Transductive Relation-Propagation Network for Few-shot Learning
+* Transductive Relation-Propagation Network for Few-shot Learning
 Yuqing Ma, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
 International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+[pdf]
+
+* Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.
+Chongzhi Zhang*, Aishan Liu*, Xianglong Liu, Yitao Xu, Hang Yu, Yuqing Ma and Tianlin Li. (* means equal contribution)
+Under review.
+[pdf] [poster] [code] [bibtex]
+
+* Region-wise Generative Adversarial Image Inpainting for Large Missing Areas.
+Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
+Under review.
+[pdf]
+
+* Region-wise Generative Adversarial Image Inpainting for Large Missing Areas.
+Yuqing Ma, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
+Under review.
 [pdf]
