@@ -1,5 +1,4 @@
 ## Brief Bio
----
 Ph.D. Candidate
 
 State Key Laboratory of Software Development Environment
