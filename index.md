@@ -30,11 +30,8 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 ## Publications
 * Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration
-
 Yuqing Ma, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
-
 International Joint Conference on Artificial Intelligence (IJCAI), 2020.
-
 [pdf]
 
 * Transductive Relation-Propagation Network for Few-shot Learning
