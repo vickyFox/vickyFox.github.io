@@ -1,4 +1,3 @@
-![avatar](mayuqing.jpg)
 ## Yuqing Ma (马宇晴)
 
 Yuqing Ma's Home Page
