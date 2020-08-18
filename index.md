@@ -15,10 +15,10 @@ Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology, Shandong University, in 2015.
 
 ## Updates
+
+* April, 2020: One paper accepted for [IJCAI 2019](https://www.ijcai20.org/).
 * Sep, 2019: I received the national scholarship.
-
-* Jun, 2019: I got an internship in ARVR, JD.com.
-
-* Mar, 2019: One paper accepted for IJCAI 2019.
+* Jun, 2019: I got an internship in [ARVR, JD.com](https://ar.jd.com/).
+* Mar, 2019: One paper accepted for [IJCAI 2019](http://ijcai19.org/).
 
 
