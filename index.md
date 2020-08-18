@@ -1,4 +1,18 @@
-## Yuqing Ma (马宇晴)
+## Brief Bio
+---
+Ph.D. Candidate
+
+State Key Laboratory of Software Development Environment
+
+School of Computer Science and Engineering, Beihang University, China
+
+Email: mayuqing@nlsde.buaa.edu.cn or
+             mayuqing@buaa.edu.cn or
+             vickyfoxmyq@gmail.com
+
+Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
+
+
 
 Yuqing Ma's Home Page
 
