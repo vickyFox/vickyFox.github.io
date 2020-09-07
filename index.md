@@ -60,30 +60,31 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 * **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.**
 <br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and Aishan Liu.
-<br>International Joint Conference on Artificial Intelligence (**IJCAI’19**), Macao, China, 2019.
+<br>*[International Joint Conference on Artificial Intelligence (**IJCAI’19**), Macao, China, 2019](http://ijcai19.org/)*.
 <br>[pdf] [poster] [code] [bibtex]
 
 * **Perceptual Sensitive GAN for Generating Adversarial Patches.**
 <br>Aishan Liu, Xianglong Liu, Jiaxin Fan, **Yuqing Ma**, Anlan Zhang, Huiyuan Xie and Dacheng Tao.
-<br>AAAI Conference on Artificial Intelligence (**AAAI’19**), Honolulu, Hawaii, USA, 2019.
-<br>[pdf] [poster] [bibtex]
+<br>*[AAAI Conference on Artificial Intelligence (**AAAI’19**), Honolulu, Hawaii, USA, 2019](https://aaai.org/Conferences/AAAI-19/)*.
+<br>[[pdf]](https://aaai.org/Conferences/AAAI-19/) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/psgan_aaai2019.bib)
 
 * **A General Non-parametric Active Learning Framework for Classification on Multiple Manifolds.**
 <br>Lei Huang, **Yuqing Ma**, Xianglong Liu.
-<br>Pattern Recognition Letters (**PRL’2019**).
-<br>[pdf] [poster] [code] [bibtex]
+<br>*[Pattern Recognition Letters (**PRL’2019**)](https://www.journals.elsevier.com/pattern-recognition-letters)*.
+<br>[pdf](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/NPA.pdf) [poster](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [code](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [bibtex](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/NPA.bib)
 
 * **Progressive Generative Hashing for Image Retrieval.**
 <br>**Yuqing Ma**, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu.
 <br>International Joint Conference on Artificial Intelligence (**IJCAI’18**), Stockholm, Sweden, 2018.
-<br>[pdf] [poster] [code] [bibtex]
+<br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/pgh.pdf) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/pgh.bib)
 
 * **Temporal Binary Coding for Large-scale Video Search.**
 <br>Ke Xia, **Yuqing Ma**, Xianglong Liu, Yadong Mu and Li Liu.
-<br>ACM International Conference on Multimedia (**ACM MM’17**), Mountain View, California, USA, 2017.
-<br>[pdf] [poster] [code] [bibtex]
+<br>*[ACM International Conference on Multimedia (**ACM MM’17**), Mountain View, California, USA, 2017](https://acmmm.org/)*.
+<br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/TVH.pdf) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/TVH.bib)
 
 ## Main Awards & Honors
+* the Academic Excellence Foundation of BUAA for PhD Students, Beihang University, 2020.06.
 * National Scholarship, China, 2019.09.
 * Tencent Rhino-Bird Elite Training Program, Tencent, 2018
 * IJCAI-18 Travel Grant, IJCAI, 2018.07.
@@ -93,6 +94,7 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 ## Professional Activities
 ### Conference Reviewer / Program Committee Member
+* ACM MM 2020.
 * IJCAI 2019.
 * ACM MM 2019.
 * PR 2019.
