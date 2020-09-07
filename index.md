@@ -15,11 +15,9 @@ Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology, Shandong University, in 2015.
 
 ## Updates
-* July, 2020: One papers accepted for [ECCV 2020](https://eccv2020.eu/)
-* April, 2020: One paper accepted for [IJCAI 2019](https://www.ijcai20.org/).
-* Sep, 2019: I received the national scholarship.
-* Jun, 2019: I got an internship in [ARVR, JD.com](https://ar.jd.com/).
-* Mar, 2019: One paper accepted for [IJCAI 2019](http://ijcai19.org/).
+* Jul, 2020: one paper accepted for [ACM MM 2020](https://2020.acmmm.org/).
+* Jun, 2020: awarded the Academic Excellence Foundation of BUAA for PhD Students.
+* Apr, 2020: two paper accepted for [IJCAI 2020](https://www.ijcai20.org/).
 
 ## Research Interests
 My research interests include some sub-fields of **Computer Vision** and **Deep Learning**:
