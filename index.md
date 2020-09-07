@@ -31,7 +31,7 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 * **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module**
 <br>Yanlu Wei, Renshuai Tao, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu
 <br>[ACM International Conference on Multimedia (ACM MM’20)](https://acmmm.org/).
-<br>[pdf](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [poster](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [code](https://github.com/OPIXray-author/OPIXray) [bibtex](http://sites.nlsde.buaa.edu.cn/~mayuqing/#)
+<br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](https://github.com/OPIXray-author/OPIXray) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#)
 
 * **Spatiotemporal Attacks for Embodied Agents**
 <br>Aishan Liu, Tairan Huang, Xianglong Liu, Yitao Xu, **Yuqing Ma**, Xinyun Chen, Stephen Maybank, Dacheng Tao
