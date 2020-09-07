@@ -40,23 +40,23 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 * **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
 <br>**Yuqing Ma**, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
-<br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
-<br>[pdf]
+<br>*[International Joint Conference on Artificial Intelligence (**IJCAI**), 2020](http://ijcai20.org/)*/.
+<br>[[pdf]](https://www.ijcai.org/Proceedings/2020/0112.pdf) [code] [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/TPRN.bib)
 
 * **Transductive Relation-Propagation Network for Few-shot Learning**
 <br>**Yuqing Ma**, Shihao Bai, Shan An, Wei Liu, Aishan Liu, Xianglong Liu
-<br>International Joint Conference on Artificial Intelligence (**IJCAI**), 2020.
-<br>[pdf]
+<br>*[International Joint Conference on Artificial Intelligence (**IJCAI**), 2020](http://ijcai20.org/)*.
+<br>[[pdf]](https://www.ijcai.org/Proceedings/2020/0113.pdf) [code] [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/IPN.bib)
 
 * **Interpreting and Improving Adversarial Robustness with Neuron Sensitivity.**
 <br>Chongzhi Zhang*, Aishan Liu*, Xianglong Liu, Yitao Xu, Hang Yu, **Yuqing Ma** and Tianlin Li. (* means equal contribution)
 <br>Under review.
-<br>[pdf] [poster] [code] [bibtex]
+<br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#)
 
 * **Region-wise Generative Adversarial Image Inpainting for Large Missing Areas.**
 <br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Aishan Liu, Dacheng Tao and Edwin R. Hancock.
 <br>Under review.
-<br>[pdf]
+<br>[[pdf]](https://arxiv.org/pdf/1909.12507.pdf) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](https://github.com/vickyFox/Region-wise-Inpainting) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/ijcai19.bib)
 
 * **Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation.**
 <br>**Yuqing Ma**, Xianglong Liu, Shihao Bai, Lei Wang, Dailan He and Aishan Liu.
