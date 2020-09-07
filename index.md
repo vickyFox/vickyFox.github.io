@@ -75,7 +75,7 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 * **Progressive Generative Hashing for Image Retrieval.**
 <br>**Yuqing Ma**, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu.
-<br>International Joint Conference on Artificial Intelligence (**IJCAI’18**), Stockholm, Sweden, 2018.
+<br>*[International Joint Conference on Artificial Intelligence (**IJCAI’18**), Stockholm, Sweden, 2018](http://ijcai-18.org/)*.
 <br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/pgh.pdf) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/files/papers/pgh.bib)
 
 * **Temporal Binary Coding for Large-scale Video Search.**
