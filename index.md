@@ -29,14 +29,14 @@ My research interests include some sub-fields of **Computer Vision** and **Deep 
 
 ## Publications
 * **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module**
-<br>Yanlu Wei, Renshuai Tao, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu
-<br>[ACM International Conference on Multimedia (ACM MM’20)](https://acmmm.org/).
+<br>Yanlu Wei, Renshuai Tao, Zhangjie Wu, **Yuqing Ma**, Libo Zhang, Xianglong Liu
+<br>*[ACM International Conference on Multimedia (ACM MM’20)](https://acmmm.org/)*.
 <br>[[pdf]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[poster]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#) [[code]](https://github.com/OPIXray-author/OPIXray) [[bibtex]](http://sites.nlsde.buaa.edu.cn/~mayuqing/#)
 
 * **Spatiotemporal Attacks for Embodied Agents**
 <br>Aishan Liu, Tairan Huang, Xianglong Liu, Yitao Xu, **Yuqing Ma**, Xinyun Chen, Stephen Maybank, Dacheng Tao
-<br>European Conference on Computer Vision (**ECCV**), 2020.
-<br>[pdf] [code] [media]
+<br>*[European Conference on Computer Vision (**ECCV**), 2020](https://eccv2020.eu/)*.
+<br>[[pdf](https://arxiv.org/pdf/2005.09161.pdf)] [[code]](https://github.com/liuaishan/SpatiotemporalAttack) [[media]](https://www.qbitai.com/2020/07/16562.html)
 
 * **Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration**
 <br>**Yuqing Ma**, Shihao Bai, Wei Liu, Qingyu Zhang, Aishan Liu, Xianglong Liu
