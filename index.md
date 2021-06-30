@@ -17,7 +17,6 @@ I’m currently a postdoctoral fellow in [NLSDE](http://www.nlsde.buaa.edu.cn/) 
 ## Updates
 * Jul, 2020: one paper accepted for [ACM MM 2020](https://2020.acmmm.org/).
 * Jun, 2020: awarded the Academic Excellence Foundation of BUAA for PhD Students.
-* Apr, 2020: two papers accepted for [IJCAI 2020](https://www.ijcai20.org/).
 
 ## Research Interests
 My research interests include some sub-fields of **Computer Vision** and **Deep Learning**:
