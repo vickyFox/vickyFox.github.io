@@ -12,7 +12,7 @@ Email: mayuqing@nlsde.buaa.edu.cn or
 Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 
 ## About Me
-I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology, Shandong University, in 2015.
+I’m currently a postdoctoral fellow in [NLSDE](http://www.nlsde.buaa.edu.cn/) at Beihang University, advised by [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Previously I received my PhD from Beihang University (2021), under the supervision of Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received a BS from Shandong University (2015) in Computer Science.
 
 ## Updates
 * Jul, 2020: one paper accepted for [ACM MM 2020](https://2020.acmmm.org/).
